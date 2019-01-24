@@ -5,4 +5,5 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
 Add merge.
+dual with bug101.
 This is now work.
